@@ -1,3 +1,5 @@
+'use client';
+
 import { useState } from 'react';
 import ReactMarkdown from 'react-markdown';
 import { Upload, FileText, Activity, Search, AlertCircle, CheckCircle2 } from 'lucide-react';
